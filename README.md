@@ -32,6 +32,18 @@
 
 ---
 
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalmonv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalmonv&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmonv&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
 ### 📫 Contato
 
 Se quiser trocar uma ideia, colaborar ou só mandar um "oi", meu e-mail é:
