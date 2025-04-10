@@ -1,22 +1,43 @@
-# 👋 Olá, mundo! Eu sou o Kalmon Valadão Tavares 🧙‍♂️
+<h1 align="center">Olá! Eu sou o Kalmon 👋</h1>
 
-🎓 Formado em Ciência da Computação, sou um mago dos códigos que conjura feitiços em:
+<p align="center">
+  👨‍💻 Desenvolvedor full stack | 🎓 Formado em Ciência da Computação | 🍥 Fã de Animes e Mangás
+</p>
 
-- 🧠 **JavaScript** (meu jutsu favorito)
-- 🐘 **PHP**
-- 🎨 **HTML/CSS**
-- 📱 **Flutter**
-- 🧮 **SQL**
+---
 
-## 🛠️ Também tenho afinidade com:
+### 🚀 Sobre mim
 
-- 🐳 **Docker** – conteinerizando até o almoço 🍱  
-- 🤖 **IA** – fazendo as máquinas pensarem (ou pelo menos tentarem)
-- 🧾 **SPED Fiscal** – desbravando os mistérios fiscais do reino contábil
+- 💻 Amo programar e criar coisas novas na web e no mobile.
+- 👨‍🎓 Formado em Ciência da Computação.
+- 📦 Gosto de mexer com containers (sim, Docker 🐳).
+- 📊 Já me aventurei no mundo do SPED Fiscal (😅).
+- 🤖 Me interesso por IA e tudo que envolve automação.
+- 🍜 Nas horas vagas, mergulho em animes e mangás!
 
-## 💥 E quando não estou codando...
+---
 
-Você pode me encontrar mergulhado em mundos de fantasia:
-- 📖 **Mangás**
-- 📺 **Animes**
-- 🧩 Teorias de universos paralelos que só fazem sentido às 3 da manhã
+### 🛠️ Tecnologias e Linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Contato
+
+Se quiser trocar uma ideia, colaborar ou só mandar um "oi", meu e-mail é:
+
+📧 **kalmonvaladao@gmail.com**
+
+---
+
+<p align="center">Feito com ❤️, café e alguns episódios de anime 🍵</p>
