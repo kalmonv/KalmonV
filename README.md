@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, mundo! Eu sou o [Seu Nome Aqui] 🧙‍♂️
 
-<!--
-**kalmonv/KalmonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Ciência da Computação, sou um mago dos códigos que conjura feitiços em:
 
-Here are some ideas to get you started:
+- 🧠 **JavaScript** (meu jutsu favorito)
+- 🐘 **PHP**
+- 🎨 **HTML/CSS**
+- 📱 **Flutter**
+- 🧮 **SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Também tenho afinidade com:
+
+- 🐳 **Docker** – conteinerizando até o almoço 🍱  
+- 🤖 **IA** – fazendo as máquinas pensarem (ou pelo menos tentarem)
+- 🧾 **SPED Fiscal** – desbravando os mistérios fiscais do reino contábil
+
+## 💥 E quando não estou codando...
+
+Você pode me encontrar mergulhado em mundos de fantasia:
+- 📖 **Mangás**
+- 📺 **Animes**
+- 🧩 Teorias de universos paralelos que só fazem sentido às 3 da manhã
