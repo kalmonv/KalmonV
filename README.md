@@ -35,11 +35,9 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalmonv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalmonv&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmonv&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalmonv&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalmonv&theme=tokyonight" alt="GitHub Streak"  width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmonv&layout=compact&theme=tokyonight" alt="Top Langs"  width="33%" />
 </p>
 
 ---
