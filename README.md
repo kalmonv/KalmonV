@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Kalmon 👋</h1>
+<h1 align="center">👋</h1>
 
 <p align="center">
   👨‍💻 Desenvolvedor full stack | 🎓 Formado em Ciência da Computação | 🍥 Fã de Animes e Mangás
