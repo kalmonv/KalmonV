@@ -1,39 +1,48 @@
-<h1 align="center">👋</h1>
+<h1 align="center">Kalmon Valadão Tavares</h1>
+<p align="center">
+  <strong>Desenvolvedor Full-Stack • Node.js | Vue.js | Docker</strong><br/>
+  <em>Transformo ideias em produtos simples, rápidos e escaláveis.</em>
+</p>
 
 <p align="center">
-  👨‍💻 Desenvolvedor full stack | 🎓 Formado em Ciência da Computação | 🍥 Fã de Animes e Mangás
+  <a href="https://github.com/kalmonv?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/kalmonv?style=flat&label=Seguidores">
+  </a>
+  <a href="https://github.com/kalmonv">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/kalmonv?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Stars">
+  </a>
+  <a href="https://www.linkedin.com/in/kalmonv/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kalmonv-blue?logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
-
-- 💻 Amo programar e criar coisas novas na web e no mobile.
-- 👨‍🎓 Formado em Ciência da Computação.
-- 📦 Gosto de mexer com containers (sim, Docker 🐳).
-- 📊 Já me aventurei no mundo do SPED Fiscal (😅).
-- 🤖 Me interesso por IA e tudo que envolve automação.
-- 🍜 Nas horas vagas, mergulho em animes e mangás!
+### 🧭 Sobre
+- Foco em **back-end Node.js** e **front-end Vue 3** com **TailwindCSS**.
+- Experiência com **integrações fiscais brasileiras** (NFe/NFCe/NFSe, SPED), automações e micro-serviços.
+- Docker, CI/CD, testes e observabilidade fazem parte do meu dia a dia.
+- Curioso por **IA aplicada** e tudo que poupa tempo (automação 💡).
 
 ---
 
-### 🛠️ Tecnologias e Linguagens
-
+### 🔧 Stack principal
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
 ---
 
-### 📈 Estatísticas do GitHub
-
+### 📊 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalmonv&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="56.1%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmonv&layout=compact&theme=tokyonight" alt="Top Langs"  width="42.5%" />
@@ -41,12 +50,19 @@
 
 ---
 
-### 📫 Contato
-
-Se quiser trocar uma ideia, colaborar ou só mandar um "oi", meu e-mail é:
-
-📧 **kalmonvaladao@gmail.com**
+### 🤝 Como posso ajudar
+- Integrações fiscais (NFe, NFCe, NFSe, SPED) e geração/validação de documentos.
+- Desenvolvimento de APIs e serviços escaláveis em Node.js.
+- Front-ends acessíveis e performáticos com Vue + Tailwind.
+- Automação de rotinas e scripts DevOps com Docker.
 
 ---
 
-<p align="center">Feito com ❤️, café e alguns episódios de anime 🍵</p>
+### 📬 Contato
+- Email: **kalmonvaladao@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/kalmonv/**  
+- GitHub: **https://github.com/kalmonv**
+
+---
+
+<p align="center"><sub>Feito com café, testes automatizados e boas práticas.</sub></p>
